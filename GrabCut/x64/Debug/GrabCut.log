@@ -1,0 +1,13 @@
+﻿  GMM.cpp
+  graph.cpp
+  GraphCut.cpp
+  maxflow.cpp
+  GCApplication.cpp
+E:\opencv2.14\opencv\build\include\opencv2\flann\logger.h(66,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GrabCut.cpp
+  main.cpp
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+E:\opencv2.14\opencv\build\include\opencv2\flann\logger.h(66,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+  GrabCut.vcxproj -> C:\Users\de'l'l\Desktop\cv\GrabCut\x64\Debug\GrabCut.exe
